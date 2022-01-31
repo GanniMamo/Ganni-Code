@@ -1,2 +1,2 @@
 # Ganni-Code
-in theis repository you will find my CSS and HTML files.
+in this repository you will find my CSS and HTML files.
