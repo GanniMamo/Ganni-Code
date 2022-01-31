@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(240, 230, 200);
+}
+
+.container {
+    text-align: center;
+}
+
+.left{
+    float: left;
+    margin:  auto;
+    
+}
+
+.center {
+display: inline-block;
+margin: auto;
+line-height: 150px;
+padding-right: 50px;
+
+}
+
+.right {
+    float: right;
+}
+
+.smaller-image {
+    width: 137px; height: 130px;
+}
+
+.dog1 {
+    width: 500px; height: 300px;
+}
+
+.dog2 {
+    width: 500px; height: 300px;
+}
+
+.dog3 {
+    width: 500px; height: 300px;
+}
+
+.dog4 {
+    width: 500px; height: 300px;
+}
+
+.dog5 {
+    width: 500px; height: 300px;
+}
+
+.dog6 {
+    width: 500px; height: 300px;
+}
+
+.dog7 {
+    width: 500px; height: 300px;
+}
+
+.dog8 {
+    width: 500px; height: 300px;
+}
+
+.dog9 {
+    width: 500px; height: 300px;
+}
+
+.table {
+    padding-left: 15px;
+    border-spacing: 20px;
+}
+

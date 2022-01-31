@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(240, 230, 200);
+}
+
+.div {
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+    border-style: solid; color: black;
+    width: 1200px; height: 650px;
+    border-radius: 50px;
+    font-family: Verdana;
+    font-size: 25px;
+    font-weight: normal;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+.center {
+    text-align: center;
+    vertical-align: middle; 
+    line-height: 30px;
+}
+
+.container {
+    text-align: center;
+}
+
+.left{
+    float: left;
+    margin:  auto;
+    
+}
+
+.center {
+display: inline-block;
+margin: auto;
+line-height: 150px;
+padding-right: 50px;
+
+}
+
+.right {
+    float: right;
+}
+
+.smaller-image {
+    width: 137px; height: 130px;
+}
